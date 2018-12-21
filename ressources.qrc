@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>boutonSCIENCE.png</file>
+        <file>boutonSOCIAL.png</file>
+        <file>boutonECO.png</file>
+        <file>boutonCENTRE.png</file>
+        <file>petiteCroix.png</file>
+        <file>flechePrecedent.png</file>
+        <file>flecheSuivant.png</file>
+        <file>croix.png</file>
+    </qresource>
+    <qresource prefix="/texte">
+        <file>tpeOptions.txt</file>
+        <file>socialPartieA.txt</file>
+        <file>socialPartieB.txt</file>
+        <file>socialPartieC.txt</file>
+        <file>ecoPartieA.txt</file>
+        <file>ecoPartieB.txt</file>
+        <file>ecoPartieC.txt</file>
+        <file>sciencesPartieA.txt</file>
+        <file>sciencesPartieB.txt</file>
+        <file>sciencesPartieC.txt</file>
+    </qresource>
+</RCC>

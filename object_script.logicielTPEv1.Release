@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\boutons.o
+./release\logiciel.o
+./release\fenetretexte.o
+./release\fenetrechoix.o
+./release\qrc_ressources.o
+./release\moc_boutons.o
+./release\moc_logiciel.o
+./release\moc_fenetretexte.o
+./release\moc_fenetrechoix.o
+);

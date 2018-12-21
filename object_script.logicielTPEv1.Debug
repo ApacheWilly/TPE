@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\boutons.o
+./debug\logiciel.o
+./debug\fenetretexte.o
+./debug\fenetrechoix.o
+./debug\qrc_ressources.o
+./debug\moc_boutons.o
+./debug\moc_logiciel.o
+./debug\moc_fenetretexte.o
+./debug\moc_fenetrechoix.o
+);
